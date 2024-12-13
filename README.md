@@ -3,7 +3,7 @@ Portable Money-Wash System for QBCORE
 
 this is free and open source 
 
-
+SHOWCASE: https://youtu.be/vJozVSfQLu8
 
 
 # Install
