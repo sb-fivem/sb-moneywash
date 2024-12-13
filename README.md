@@ -22,7 +22,7 @@ this is free and open source
 
 
 
->>>>>>> dont forget to add the item into a shop to purchase the washer, i would suggest a hardware store :) <<<<<<<
+ dont forget to add the item into a shop to purchase the washer, i would suggest a hardware store :) 
 
 
 - sb <3
