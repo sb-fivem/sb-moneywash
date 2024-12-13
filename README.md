@@ -6,6 +6,7 @@ this is free and open source
 
 
 SHOWCASE: https://youtu.be/vJozVSfQLu8
+DISCORD: https://discord.gg/ZzrhwFeFDB
 
 # dependencies 
 qb-core
