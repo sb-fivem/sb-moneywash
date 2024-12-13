@@ -5,10 +5,10 @@ this is free and open source
 
 SHOWCASE: https://youtu.be/vJozVSfQLu8
 
-* dependencies 
-    qb-core,
-    qb-target,
-    qb-inventory
+# dependencies 
+qb-core
+qb-target
+qb-inventory
 
 # Install
 
