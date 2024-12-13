@@ -2,6 +2,8 @@
 Portable Money-Wash System for QBCORE
 
 this is free and open source 
+![12_gtavpc_03272015](https://github.com/user-attachments/assets/afb4b2c5-1c25-4622-a312-59464652dc85)
+
 
 SHOWCASE: https://youtu.be/vJozVSfQLu8
 
@@ -12,7 +14,6 @@ qb-inventory
 
 # Install
 
-![12_gtavpc_03272015](https://github.com/user-attachments/assets/afb4b2c5-1c25-4622-a312-59464652dc85)
 
 1 • add sb-moneywash to resources
 
