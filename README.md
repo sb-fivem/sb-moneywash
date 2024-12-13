@@ -6,7 +6,7 @@ this is free and open source
 
 
 
--install-
+# HOW TO Install
 
 
 1 • add sb-moneywash to resources
